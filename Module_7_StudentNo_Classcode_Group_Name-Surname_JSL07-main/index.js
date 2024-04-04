@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function () {
     certificateContent.innerHTML += `<h2>${studentName}</h2>`;
     certificateContent.innerHTML += `<p>has almost completed the</p>`;
     certificateContent.innerHTML +=  `<h3>${courseName} Course.</h3>`;
-    certificateContent.innerHTML += `with legendary perseverance and wolrd-class bad-assery for never giving up 🏆`;
+    certificateContent.innerHTML += `with legendary perseverance and world-class bad-assery for never giving up 🏆`;
     certificateContent.innerHTML += `<img src="./logo.png" height="150px" width="400px" alt="Logo"/>`;
     certificateContent.innerHTML += `<p>${personalMessage}</p>`;
   
